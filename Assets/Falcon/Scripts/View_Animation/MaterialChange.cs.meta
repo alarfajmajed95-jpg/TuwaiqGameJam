@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 41cd861f12268c9479cf079457ce96e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Scripts/View_Animation/MaterialChange.cs
+  uploadId: 224145

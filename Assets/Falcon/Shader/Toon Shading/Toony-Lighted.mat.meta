@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9e6294c9d11cb8d11006bf944295342
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Shader/Toon Shading/Toony-Lighted.mat
+  uploadId: 224145

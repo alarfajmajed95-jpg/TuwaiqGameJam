@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ace6278e19be6b24183b59608e1a4b19
+timeCreated: 1515040760
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Animator/Falcon_Animator.controller
+  uploadId: 224145

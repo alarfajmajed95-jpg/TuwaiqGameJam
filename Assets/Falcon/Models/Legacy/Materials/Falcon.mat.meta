@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20ddfae862d4b7d48a9378df79a422f0
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Models/Legacy/Materials/Falcon.mat
+  uploadId: 224145

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e1f202dfb4b7ea7488e8be0f64e4c6e5
+timeCreated: 1515040553
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Scripts/View_Animation/CameraRotate.cs
+  uploadId: 224145

@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 7a7c96eccec1f414bae3ab341dcdb055
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Models/Legacy/Falcon.FBX
+  uploadId: 224145
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Falcon001
+  - first:
+      1: 100004
+    second: Falcon_ Tail
+  - first:
+      1: 100006
+    second: Falcon_Bip001
+  - first:
+      1: 100008
+    second: Falcon_Bip001 Footsteps
+  - first:
+      1: 100010
+    second: Falcon_Bip001 Head
+  - first:
+      1: 100012
+    second: Falcon_Bip001 HeadNub
+  - first:
+      1: 100014
+    second: Falcon_Bip001 L Calf
+  - first:
+      1: 100016
+    second: Falcon_Bip001 L Foot
+  - first:
+      1: 100018
+    second: Falcon_Bip001 L HorseLink
+  - first:
+      1: 100020
+    second: Falcon_Bip001 L Thigh
+  - first:
+      1: 100022
+    second: Falcon_Bip001 L Toe0
+  - first:
+      1: 100024
+    second: Falcon_Bip001 L Toe01
+  - first:
+      1: 100026
+    second: Falcon_Bip001 L Toe02
+  - first:
+      1: 100028
+    second: Falcon_Bip001 L Toe0Nub
+  - first:
+      1: 100030
+    second: Falcon_Bip001 L Toe1
+  - first:
+      1: 100032
+    second: Falcon_Bip001 L Toe11
+  - first:
+      1: 100034
+    second: Falcon_Bip001 L Toe12
+  - first:
+      1: 100036
+    second: Falcon_Bip001 L Toe1Nub
+  - first:
+      1: 100038
+    second: Falcon_Bip001 Neck
+  - first:
+      1: 100040
+    second: Falcon_Bip001 Pelvis
+  - first:
+      1: 100042
+    second: Falcon_Bip001 R Calf
+  - first:
+      1: 100044
+    second: Falcon_Bip001 R Foot
+  - first:
+      1: 100046
+    second: Falcon_Bip001 R HorseLink
+  - first:
+      1: 100048
+    second: Falcon_Bip001 R Thigh
+  - first:
+      1: 100050
+    second: Falcon_Bip001 R Toe0
+  - first:
+      1: 100052
+    second: Falcon_Bip001 R Toe01
+  - first:
+      1: 100054
+    second: Falcon_Bip001 R Toe02
+  - first:
+      1: 100056
+    second: Falcon_Bip001 R Toe0Nub
+  - first:
+      1: 100058
+    second: Falcon_Bip001 R Toe1
+  - first:
+      1: 100060
+    second: Falcon_Bip001 R Toe11
+  - first:
+      1: 100062
+    second: Falcon_Bip001 R Toe12
+  - first:
+      1: 100064
+    second: Falcon_Bip001 R Toe1Nub
+  - first:
+      1: 100066
+    second: Falcon_Bip001 Spine
+  - first:
+      1: 100068
+    second: Falcon_Bip001 Spine1
+  - first:
+      1: 100070
+    second: Falcon_Bip001_Jaw_Bone001
+  - first:
+      1: 100072
+    second: Falcon_L_Wing01
+  - first:
+      1: 100074
+    second: Falcon_L_Wing01_01
+  - first:
+      1: 100076
+    second: Falcon_L_Wing01_02
+  - first:
+      1: 100078
+    second: Falcon_L_Wing02
+  - first:
+      1: 100080
+    second: Falcon_L_Wing02_01
+  - first:
+      1: 100082
+    second: Falcon_L_Wing02_02
+  - first:
+      1: 100084
+    second: Falcon_L_Wing03
+  - first:
+      1: 100086
+    second: Falcon_L_Wing03_01
+  - first:
+      1: 100088
+    second: Falcon_L_Wing03_02
+  - first:
+      1: 100090
+    second: Falcon_L_Wing04
+  - first:
+      1: 100092
+    second: Falcon_L_Wing04_01
+  - first:
+      1: 100094
+    second: Falcon_L_Wing04_02
+  - first:
+      1: 100096
+    second: Falcon_L_Wing05
+  - first:
+      1: 100098
+    second: Falcon_R_Wing01
+  - first:
+      1: 100100
+    second: Falcon_R_Wing01_01
+  - first:
+      1: 100102
+    second: Falcon_R_Wing01_02
+  - first:
+      1: 100104
+    second: Falcon_R_Wing02
+  - first:
+      1: 100106
+    second: Falcon_R_Wing02_01
+  - first:
+      1: 100108
+    second: Falcon_R_Wing02_02
+  - first:
+      1: 100110
+    second: Falcon_R_Wing03
+  - first:
+      1: 100112
+    second: Falcon_R_Wing03_01
+  - first:
+      1: 100114
+    second: Falcon_R_Wing03_02
+  - first:
+      1: 100116
+    second: Falcon_R_Wing04
+  - first:
+      1: 100118
+    second: Falcon_R_Wing04_01
+  - first:
+      1: 100120
+    second: Falcon_R_Wing04_02
+  - first:
+      1: 100122
+    second: Falcon_R_Wing05
+  - first:
+      1: 100124
+    second: Falcon_Tail_L_Bone001
+  - first:
+      1: 100126
+    second: Falcon_Tail_R_Bone001
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Falcon001
+  - first:
+      4: 400004
+    second: Falcon_ Tail
+  - first:
+      4: 400006
+    second: Falcon_Bip001
+  - first:
+      4: 400008
+    second: Falcon_Bip001 Footsteps
+  - first:
+      4: 400010
+    second: Falcon_Bip001 Head
+  - first:
+      4: 400012
+    second: Falcon_Bip001 HeadNub
+  - first:
+      4: 400014
+    second: Falcon_Bip001 L Calf
+  - first:
+      4: 400016
+    second: Falcon_Bip001 L Foot
+  - first:
+      4: 400018
+    second: Falcon_Bip001 L HorseLink
+  - first:
+      4: 400020
+    second: Falcon_Bip001 L Thigh
+  - first:
+      4: 400022
+    second: Falcon_Bip001 L Toe0
+  - first:
+      4: 400024
+    second: Falcon_Bip001 L Toe01
+  - first:
+      4: 400026
+    second: Falcon_Bip001 L Toe02
+  - first:
+      4: 400028
+    second: Falcon_Bip001 L Toe0Nub
+  - first:
+      4: 400030
+    second: Falcon_Bip001 L Toe1
+  - first:
+      4: 400032
+    second: Falcon_Bip001 L Toe11
+  - first:
+      4: 400034
+    second: Falcon_Bip001 L Toe12
+  - first:
+      4: 400036
+    second: Falcon_Bip001 L Toe1Nub
+  - first:
+      4: 400038
+    second: Falcon_Bip001 Neck
+  - first:
+      4: 400040
+    second: Falcon_Bip001 Pelvis
+  - first:
+      4: 400042
+    second: Falcon_Bip001 R Calf
+  - first:
+      4: 400044
+    second: Falcon_Bip001 R Foot
+  - first:
+      4: 400046
+    second: Falcon_Bip001 R HorseLink
+  - first:
+      4: 400048
+    second: Falcon_Bip001 R Thigh
+  - first:
+      4: 400050
+    second: Falcon_Bip001 R Toe0
+  - first:
+      4: 400052
+    second: Falcon_Bip001 R Toe01
+  - first:
+      4: 400054
+    second: Falcon_Bip001 R Toe02
+  - first:
+      4: 400056
+    second: Falcon_Bip001 R Toe0Nub
+  - first:
+      4: 400058
+    second: Falcon_Bip001 R Toe1
+  - first:
+      4: 400060
+    second: Falcon_Bip001 R Toe11
+  - first:
+      4: 400062
+    second: Falcon_Bip001 R Toe12
+  - first:
+      4: 400064
+    second: Falcon_Bip001 R Toe1Nub
+  - first:
+      4: 400066
+    second: Falcon_Bip001 Spine
+  - first:
+      4: 400068
+    second: Falcon_Bip001 Spine1
+  - first:
+      4: 400070
+    second: Falcon_Bip001_Jaw_Bone001
+  - first:
+      4: 400072
+    second: Falcon_L_Wing01
+  - first:
+      4: 400074
+    second: Falcon_L_Wing01_01
+  - first:
+      4: 400076
+    second: Falcon_L_Wing01_02
+  - first:
+      4: 400078
+    second: Falcon_L_Wing02
+  - first:
+      4: 400080
+    second: Falcon_L_Wing02_01
+  - first:
+      4: 400082
+    second: Falcon_L_Wing02_02
+  - first:
+      4: 400084
+    second: Falcon_L_Wing03
+  - first:
+      4: 400086
+    second: Falcon_L_Wing03_01
+  - first:
+      4: 400088
+    second: Falcon_L_Wing03_02
+  - first:
+      4: 400090
+    second: Falcon_L_Wing04
+  - first:
+      4: 400092
+    second: Falcon_L_Wing04_01
+  - first:
+      4: 400094
+    second: Falcon_L_Wing04_02
+  - first:
+      4: 400096
+    second: Falcon_L_Wing05
+  - first:
+      4: 400098
+    second: Falcon_R_Wing01
+  - first:
+      4: 400100
+    second: Falcon_R_Wing01_01
+  - first:
+      4: 400102
+    second: Falcon_R_Wing01_02
+  - first:
+      4: 400104
+    second: Falcon_R_Wing02
+  - first:
+      4: 400106
+    second: Falcon_R_Wing02_01
+  - first:
+      4: 400108
+    second: Falcon_R_Wing02_02
+  - first:
+      4: 400110
+    second: Falcon_R_Wing03
+  - first:
+      4: 400112
+    second: Falcon_R_Wing03_01
+  - first:
+      4: 400114
+    second: Falcon_R_Wing03_02
+  - first:
+      4: 400116
+    second: Falcon_R_Wing04
+  - first:
+      4: 400118
+    second: Falcon_R_Wing04_01
+  - first:
+      4: 400120
+    second: Falcon_R_Wing04_02
+  - first:
+      4: 400122
+    second: Falcon_R_Wing05
+  - first:
+      4: 400124
+    second: Falcon_Tail_L_Bone001
+  - first:
+      4: 400126
+    second: Falcon_Tail_R_Bone001
+  - first:
+      43: 4300000
+    second: Falcon001
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Falcon001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 5d7484ab9a15b7a41817a905febfcf88
+  - 93f6ae444c422eb4d89a256d661b17e9
+  - c0700024ef97e2a458cad28bf7ef9138
+  - bf89d802f886ea94eb89520344631979
+  - 1f29cea598ba1fb4b936bd22d2473ac8
+  - f700a0f911385dd4ebd0fc5a64e72762
+  - 59005fbe4582ef6488559072978fad47
+  - 41e9048bf897de24eab9e0ec49a41222
+  - 4b45da1bde73ce54a916d871514a785f
+  - fa5c451d3787a134e8f440a2cbde8156
+  - 346d60409f3a11645a9afc073ae1a7aa
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

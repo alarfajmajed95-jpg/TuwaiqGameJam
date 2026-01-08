@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 80108613d0c0abb4294543bbed2a2e49
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Scripts/Common/Intro_GuiButton.cs
+  uploadId: 224145

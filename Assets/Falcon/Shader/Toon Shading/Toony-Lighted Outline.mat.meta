@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d69df9d9d11e49d110086ba44295342
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26962
+  packageName: Falcon V1.2
+  packageVersion: 1.2
+  assetPath: Assets/Falcon/Shader/Toon Shading/Toony-Lighted Outline.mat
+  uploadId: 224145
